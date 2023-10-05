@@ -6,7 +6,10 @@
 <h4 align='center'> <samp>React Developer | Tech Enthusiast </samp></h4>
 
 <p align='center'><samp>
-I'm a React Developer with proficiency in Data Structures and Algorithms who finds himself to be a passionate learner and piqued in developing user-friendly and responsive websites and applications.
+Hello there! I'm a <i>Full Stack Developer</i>, working mainly with <i>Node and React</i>.<br />
+                My journey began around <i>3 years</i> back, and I have spent that time learning, collaborating and building my proficiency.<br /> 
+                Recently, I have been interested in exploring <i>testing frameworks and AWS services</i>, to enhance and optimize applications.<br /> 
+                My goal is to continuously learn and grow, aiming to create reliable software solutions.
 </samp></p>
 
 <p align='center'>
